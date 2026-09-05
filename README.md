@@ -1,105 +1,154 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,25:12005c,50:001eff,75:00d4ff,100:00fff0&height=260&section=header&text=SANTHU-SHAN&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=62&descSize=20" width="100%" alt="Santhu-shan"/> <br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=850&height=100&lines=%3E+Initializing+Santhu-shan...;%3E+Software+Developer+%7C+Problem+Solver;%3E+Python+%7C+Java+%7C+JavaScript+%7C+React;%3E+Turning+ideas+into+working+software+%F0%9F%9A%80" alt="Typing animation"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,15:090979,35:00F7FF,55:001EFF,75:7F00FF,100:020024&height=300&section=header&text=SANTHU-SHAN&fontSize=76&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=61&descSize=18" width="100%" alt="Santhu-shan"/> <br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%3E+SYSTEM+BOOTING...;%3E+IDENTITY%3A+SANTHU-SHAN;%3E+STATUS%3A+BUILDING+THE+FUTURE;%3E+TURNING+IDEAS+INTO+SOFTWARE+%F0%9F%9A%80" alt="System boot animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Building"/> <img src="https://img.shields.io/badge/LEARNING-ACTIVE-00F7FF?style=for-the-badge&logo=bookstack&logoColor=black" alt="Learning"/> <img src="https://img.shields.io/badge/IDEAS-OVERLOADED-7F00FF?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Ideas"/>
 
 <br><br>
 
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/> </a> </div>
+<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20THE%20PROJECT%20LAB-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Enter project lab"/> </a> </div>
 
 <br><br>
 
-👨‍💻 About Me
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Developer coding animation"/> </div>
-
-Hi! I'm Santhu-shan, a software developer who enjoys turning ideas into real, working projects.
-
-I like experimenting with different technologies, solving programming problems, and building applications that turn concepts into something people can actually use.
-
-🚀 What I Enjoy
-💻 Python, Java and JavaScript development
-⚛️ React and modern web interfaces
-🌐 Full-stack development
-🤖 AI and intelligent applications
-🔗 Blockchain-based applications
-🧠 Problem solving
-🎨 Interactive web experiences
-🚀 Building projects and learning by doing
-<br> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;%3E+Always+learning.;%3E+Always+building." alt="Developer philosophy"/> </div>
-
-<br><br>
-
-⚡ Skills
+🧬 WHO.AM.I()
 <div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Python Java JavaScript"/>
+
+I don't just learn technologies.
+
+I turn ideas into experiments, experiments into projects, and projects into experience.
+
+</div> <br>
+
+I'm Santhu-shan, a software developer who loves building things, breaking things, understanding why they broke, and making them better.
+
+My interests span from web development and AI to blockchain, application development, and problem solving.
+
+I'm especially interested in the journey from:
+
+<div align="center">
+
+💡 IDEA
+↓
+🔎 EXPLORE
+↓
+💻 BUILD
+↓
+🐛 BREAK
+↓
+🔧 FIX
+↓
+🚀 SHIP
+↓
+🧠 LEARN
+
+</div> <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=Curious+mind.;Builder's+mindset.;Problem+solver.;Always+one+project+away+from+learning+something+new." alt="Developer mindset"/> </div>
 
 <br><br>
 
-⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css" alt="React HTML CSS"/>
+⚡ MY.TECH.UNIVERSE
+<div align="center"> <table> <tr> <td align="center" width="25%">
+🐍
+
+PYTHON
+
+AI • Automation
+Data • Logic
+
+</td> <td align="center" width="25%">
+☕
+
+JAVA
+
+OOP • Applications
+Problem Solving
+
+</td> <td align="center" width="25%">
+⚡
+
+JAVASCRIPT
+
+Web • Logic
+Interactive UI
+
+</td> <td align="center" width="25%">
+⚛️
+
+REACT
+
+Components • Frontend
+Modern Web Apps
+
+</td> </tr> </table> <br> <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,git,github,vscode,figma&perline=10" alt="Technology stack"/> </div>
 
 <br><br>
 
-🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma"/> </div> <br>
-🧰 Development Focus
-Area	Technologies
-🐍 Programming	Python
-☕ Application Development	Java
-⚡ Web Development	JavaScript
-⚛️ Frontend	React
-🌐 Web	HTML • CSS
-🛠️ Tools	Git • GitHub • VS Code
-🎨 Design	Figma
+🎮 DEVELOPER.STATUS
+<div align="center">
+SYSTEM	STATUS
+🧠 Brain	PROCESSING...
+💻 Coding	ONLINE
+🚀 Projects	BUILDING
+🐛 Bugs	UNLIMITED
+💡 Ideas	OVERFLOW
+☕ Coffee	CRITICAL
+😴 Sleep	LOW PRIORITY
+<br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=1700&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=%5B+SYSTEM+ONLINE+%5D;%5B+DEVELOPER+MODE+%3A+ACTIVE+%5D;%5B+BUILDING+NEXT+PROJECT...+%5D;%5B+BUG+DETECTED+%3A+ACCEPTED+%5D;%5B+LEARNING+RATE+%3A+INCREASING+%5D" alt="Developer status"/> </div>
 
 <br><br>
 
-🚀 Featured Projects
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+Scanning+project+database...;%3E+Projects+loaded.;%3E+Selecting+featured+work..." alt="Projects animation"/> </div> <br>
+🚀 PROJECT.LAB
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+ACCESSING+PROJECT+DATABASE...;%3E+SCANNING+REPOSITORIES...;%3E+FEATURED+PROJECTS+FOUND;%3E+OPENING+PROJECT.LAB..." alt="Project lab"/> </div> <br>
 🍽️ Campus Nourish
 
-A campus-focused food and nourishment platform.
+A campus-focused food & nourishment platform.
 
-Stack: TypeScript
+Built around the idea of making campus food experiences more accessible and organized.
 
-<a href="https://github.com/Santhu-shan/campus-nourish"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Campus Nourish"/> </a>
+TypeScript · Web Development
+
+<a href="https://github.com/Santhu-shan/campus-nourish"> <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Campus Nourish"/> </a>
 
 <br><br>
 
 🩺 Healthcare Management Blockchain
 
-A blockchain-oriented web application exploring healthcare management.
+Exploring blockchain technology for healthcare management.
 
-Stack: TypeScript
+A project combining web development with decentralized application concepts.
 
-<a href="https://github.com/Santhu-shan/Healthcare-Management-Blockchain-Web-Application"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View Healthcare Management Blockchain"/> </a>
+TypeScript · Blockchain · Web
+
+<a href="https://github.com/Santhu-shan/Healthcare-Management-Blockchain-Web-Application"> <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Healthcare Blockchain"/> </a>
 
 <br><br>
 
 ₿ Crypto AI Dashboard
 
-A Python project exploring cryptocurrency data and AI-oriented functionality.
+Cryptocurrency data meets Python and AI experimentation.
 
-Stack: Python
+Exploring data-driven approaches around the cryptocurrency ecosystem.
 
-<a href="https://github.com/Santhu-shan/crypto-ai-dashboard"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="View Crypto AI Dashboard"/> </a>
+Python · AI · Dashboard
+
+<a href="https://github.com/Santhu-shan/crypto-ai-dashboard"> <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore Crypto AI Dashboard"/> </a>
 
 <br><br>
 
 🧠 Sentimental Analysis
 
-A project exploring sentiment analysis and AI-related concepts.
+Exploring sentiment analysis through software.
 
-Stack: TypeScript
+A project focused on understanding sentiment from textual data.
 
-<a href="https://github.com/Santhu-shan/sentimental-analysis"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="View Sentimental Analysis"/> </a>
+TypeScript · AI/ML
+
+<a href="https://github.com/Santhu-shan/sentimental-analysis"> <img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Explore Sentimental Analysis"/> </a>
 
 <br><br>
 
-🧪 Project Archive
-Project	Description	Technology
+🗂️ PROJECT.ARCHIVE
+<div align="center">
+🚀 Project	📝 Description	🔧 Stack
 🍔 Food Order App	Food ordering application	Java
 🛒 Ecommerce	E-commerce web application	JavaScript
 📝 Task Manager	Task management application	JavaScript
@@ -113,55 +162,61 @@ Project	Description	Technology
 ₿ Bitcoin Price Prediction	Bitcoin prediction project	TypeScript
 🍽️ Interactive Food Delivery	Food-delivery prototype	TypeScript
 🎨 Food Delivery Wireframe	Interface / wireframe work	TypeScript
-💍 Wedding Template	Wedding website template	HTML
-🌌 Futuristic Website	Futuristic website design	HTML
+💍 Wedding Template	Wedding website	HTML
+🌌 Futuristic Website	Futuristic web design	HTML
 📚 VITQB	Web project	HTML
 👨‍🏫 VIT Faculty Review	Faculty review platform	TypeScript
-📄 Resume	Personal resume project	HTML
+📄 Resume	Personal resume	HTML
 📱 Capita Demo	Application prototype	Dart
-
-<br><br>
-
-📊 GitHub Activity
- <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="180" alt="GitHub Contribution Streak"/> </div>
-
-<br><br>
-
-📈 Contribution Activity
-<div align="center"> <img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" width="95%" alt="Santhu-shan GitHub contribution graph"/> </div>
-
-<br><br>
-
-<div align="center"> <a href="https://github.com/Santhu-shan?tab=overview"> <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/> </a>
-
-  
-
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/> </a> </div>
-
-<br><br>
-
-🎯 Current Mission
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=160&lines=%5B+MISSION+01+%5D+Master+full-stack+development;%5B+MISSION+02+%5D+Build+better+React+applications;%5B+MISSION+03+%5D+Strengthen+Python+skills;%5B+MISSION+04+%5D+Become+a+stronger+problem+solver;%5B+MISSION+05+%5D+Build+projects+that+matter" alt="Current mission"/>
-
-<br><br>
-
-🧠 Learn	💻 Build	🐛 Debug	🚀 Ship
-Always improving	Turn ideas into software	Learn from failures	Keep moving
 </div>
 
 <br><br>
 
-🌐 Find Me on GitHub
-<div align="center"> <a href="https://github.com/Santhu-shan"> <img src="https://img.shields.io/badge/GitHub-Santhu--shan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Santhu-shan GitHub"/> </a>
+📊 GITHUB.TELEMETRY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="175" alt="GitHub Streak"/> </div>
 
 <br><br>
 
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore all repositories"/> </a> </div>
-
-<br><br><br>
-
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+learning.;Keep+building.;Keep+shipping.+%F0%9F%9A%80" alt="Footer message"/>
+<div align="center"> <img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" width="95%" alt="GitHub Contribution Activity"/> </div>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF0,30:00D4FF,60:001EFF,100:7F00FF&height=160&section=footer&animation=twinkling" width="100%" alt="Animated footer"/> </div>
+🧠 DEVELOPER.MINDSET
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=7F00FF&center=true&vCenter=true&width=850&height=180&lines=Don't+fear+the+bug.;Understand+it.;Don't+copy+the+solution.;Understand+the+problem.;Don't+wait+for+the+perfect+idea.;Build+something.;Learn.+Build.+Repeat." alt="Developer mindset animation"/> </div>
+
+<br><br>
+
+🎯 CURRENT.MISSION
+<div align="center">
+MISSION CONTROL
+Mission	Objective
+01	🚀 Master full-stack development
+02	⚛️ Build better React applications
+03	🐍 Strengthen Python skills
+04	🧠 Become a stronger problem solver
+05	🤖 Explore intelligent applications
+06	🌍 Build projects that actually matter
+<br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+MISSION+STATUS%3A+ACTIVE;%3E+NEXT+LEVEL%3A+LOADING...;%3E+NO+FINISH+LINE+FOUND.;%3E+KEEP+BUILDING." alt="Mission control"/> </div>
+
+<br><br>
+
+🌐 CONNECT
+<div align="center"> <a href="https://github.com/Santhu-shan"> <img src="https://img.shields.io/badge/GITHUB-SANTHU--SHAN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+ 
+
+<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Projects"/> </a> </div>
+
+<br><br>
+
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=You+made+it+to+the+end.;Thanks+for+stopping+by!+%F0%9F%91%8B;Now+go+build+something+extraordinary.+%F0%9F%9A%80" alt="Final message"/>
+
+<br><br>
+
+SANTHU-SHAN // SYSTEM ONLINE
+
+CODE • CREATE • INNOVATE
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF0,25:00D4FF,50:001EFF,75:7F00FF,100:020024&height=180&section=footer&animation=twinkling" width="100%" alt="Animated footer"/> </div>
