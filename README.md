@@ -155,26 +155,26 @@ Project	Description	Technology
 <br><br>
 
 📊 GITHUB.TELEMETRY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="190" alt="GitHub statistics"/>
-
-  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top languages"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" width="500" alt="Santhu-shan GitHub statistics"/>
 
 <br><br>
 
-📊 GITHUB.STATISTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="400" alt="Santhu-shan top languages"/> </div>
 
 <br><br>
 
 📈 ACTIVITY.MONITOR
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhu-shan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhu-shan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Santhu-shan GitHub activity graph"/> </div>
+
+<br><br>
+
+🔥 CONTRIBUTION.STREAK
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF" width="700" alt="Santhu-shan GitHub contribution streak"/> </div>
 
 <br><br>
 
 🐍 CONTRIBUTION.PREDATOR
-<div align="center"> <img src="https://raw.githubusercontent.com/Santhu-shan/Santhu-shan/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+<div align="center"> <img src="https://raw.githubusercontent.com/Santhu-shan/Santhu-shan/output/github-contribution-grid-snake.svg" width="95%" alt="Santhu-shan contribution snake"/> </div>
 
 <br><br>
 
