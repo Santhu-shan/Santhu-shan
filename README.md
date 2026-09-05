@@ -6,14 +6,18 @@
 
 <br><br>
 
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/> </a> </div> <br>
+<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/> </a> </div>
+
+<br><br>
+
 👨‍💻 About Me
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Developer coding animation"/> </div>
 
 Hi! I'm Santhu-shan, a software developer who enjoys turning ideas into real, working projects.
 
 I like experimenting with different technologies, solving programming problems, and building applications that turn concepts into something people can actually use.
 
-🚀 What I enjoy
+🚀 What I Enjoy
 💻 Python, Java and JavaScript development
 ⚛️ React and modern web interfaces
 🌐 Full-stack development
@@ -28,17 +32,17 @@ I like experimenting with different technologies, solving programming problems, 
 
 ⚡ Skills
 <div align="center">
-Languages
+💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Python Java JavaScript"/>
 
 <br><br>
 
-Frontend
+⚛️ Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css" alt="React HTML CSS"/>
 
 <br><br>
 
-Tools
+🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git GitHub VS Code Figma"/> </div> <br>
 🧰 Development Focus
 Area	Technologies
@@ -117,42 +121,30 @@ Project	Description	Technology
 📱 Capita Demo	Application prototype	Dart
 
 <br><br>
+
 📊 GitHub Activity
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="180" alt="GitHub Contribution Streak"/> </div>
 
 <br><br>
 
-<div align="center">
 📈 Contribution Activity
-<img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" alt="Santhu-shan GitHub contribution graph" width="95%"/> </div>
+<div align="center"> <img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" width="95%" alt="Santhu-shan GitHub contribution graph"/> </div>
 
 <br><br>
 
 <div align="center"> <a href="https://github.com/Santhu-shan?tab=overview"> <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/> </a>
 
- 
+  
 
 <a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/> </a> </div>
-
-📊 GitHub Activity
-<div align="center">
-Contributions
-<img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" alt="Santhu-shan GitHub contribution graph" width="95%"/>
-
-<br><br>
-
-<a href="https://github.com/Santhu-shan?tab=overview"> <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/> </a>
-
- 
-
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/> </a> </div> <br>
-📌 GitHub Snapshot
-<div align="center"> <img src="https://img.shields.io/badge/Repositories-22-7F00FF?style=for-the-badge&logo=github" alt="Repositories"/> <img src="https://img.shields.io/badge/Public%20Stars-1-00D4FF?style=for-the-badge&logo=github" alt="Stars"/> <img src="https://img.shields.io/badge/Followers-1-00F7FF?style=for-the-badge&logo=github" alt="Followers"/> </div>
 
 <br><br>
 
 🎯 Current Mission
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=160&lines=%5B+MISSION+01+%5D+Master+full-stack+development;%5B+MISSION+02+%5D+Build+better+React+applications;%5B+MISSION+03+%5D+Strengthen+Python+skills;%5B+MISSION+04+%5D+Become+a+stronger+problem+solver;%5B+MISSION+05+%5D+Build+projects+that+matter" alt="Current mission"/> </div> <br> <div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=160&lines=%5B+MISSION+01+%5D+Master+full-stack+development;%5B+MISSION+02+%5D+Build+better+React+applications;%5B+MISSION+03+%5D+Strengthen+Python+skills;%5B+MISSION+04+%5D+Become+a+stronger+problem+solver;%5B+MISSION+05+%5D+Build+projects+that+matter" alt="Current mission"/>
+
+<br><br>
+
 🧠 Learn	💻 Build	🐛 Debug	🚀 Ship
 Always improving	Turn ideas into software	Learn from failures	Keep moving
 </div>
@@ -164,9 +156,9 @@ Always improving	Turn ideas into software	Learn from failures	Keep moving
 
 <br><br>
 
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/> </a> </div>
+<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore all repositories"/> </a> </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+learning.;Keep+building.;Keep+shipping.+%F0%9F%9A%80" alt="Footer message"/>
 
