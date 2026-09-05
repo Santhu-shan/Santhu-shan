@@ -123,7 +123,7 @@ Project	Description	Technology
 <br><br>
 
 📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/></div>
+ <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="180" alt="GitHub Contribution Streak"/> </div>
 
 <br><br>
 
