@@ -117,6 +117,22 @@ Project	Description	Technology
 📱 Capita Demo	Application prototype	Dart
 
 <br><br>
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="180" alt="GitHub Contribution Streak"/> </div>
+
+<br><br>
+
+<div align="center">
+📈 Contribution Activity
+<img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" alt="Santhu-shan GitHub contribution graph" width="95%"/> </div>
+
+<br><br>
+
+<div align="center"> <a href="https://github.com/Santhu-shan?tab=overview"> <img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity"/> </a>
+
+ 
+
+<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/> </a> </div>
 
 📊 GitHub Activity
 <div align="center">
