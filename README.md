@@ -161,46 +161,9 @@ TypeScript AI/ML
 
 </div>
 💻 CODE.EXECUTION
-<div align="center">
-const santhu = {
-    name: "Santhu-shan",
-
-    languages: [
-        "Python",
-        "Java",
-        "JavaScript"
-    ],
-
-    frontend: [
-        "React"
-    ],
-
-    interests: [
-        "Web Development",
-        "AI",
-        "Problem Solving",
-        "Building Projects"
-    ],
-
-    mindset: "Always Learning"
-};
-
-function developerLife() {
-
-    while (santhu.mindset === "Always Learning") {
-
-        learn();
-        code();
-        build();
-        debug();
-        improve();
-        repeat();
-    }
-}
-
-developerLife();
-
-</div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=1800&pause=400&color=00F7FF&center=true&vCenter=true&width=850&height=250&lines=const+santhu+%3D+%7B;name%3A+%22Santhu-shan%22%2C;languages%3A+%5B+%22Python%22%2C+%22Java%22%2C+%22JavaScript%22+%5D%2C;frontend%3A+%5B+%22React%22+%5D%2C;mindset%3A+%22Always+Learning%22;while+(learning)+%7B;learn()%3B+build()%3B+debug()%3B+improve()%3B;%7D" alt="Animated code"/> </div> <br> <div align="center"> <img src="https://img.shields.io/badge/const%20santhu%20%3D%20Developer-00F7FF?style=for-the-badge&logo=javascript&logoColor=black" alt="Developer code"/> <img src="https://img.shields.io/badge/mindset%20%3D%20Always%20Learning-7F00FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Learning mindset"/> </div>
+🎮 DEVELOPER.STATUS
+<div align="center"> <table> <tr> <td align="center"><b>🧠 LEARNING</b></td> <td>🟢 ONLINE</td> </tr> <tr> <td align="center"><b>💻 CODING</b></td> <td>🟢 ONLINE</td> </tr> <tr> <td align="center"><b>🚀 BUILDING</b></td> <td>🟢 ONLINE</td> </tr> <tr> <td align="center"><b>🐛 DEBUGGING</b></td> <td>🔴 ALWAYS</td> </tr> <tr> <td align="center"><b>💡 IDEAS</b></td> <td>⚡ OVERLOADED</td> </tr> <tr> <td align="center"><b>☕ COFFEE</b></td> <td>🟢 REQUIRED</td> </tr> <tr> <td align="center"><b>😴 SLEEP</b></td> <td>🟡 LOW</td> </tr> </table> <br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CODING+MODE+ACTIVATED+%5D;%5B+BUILDING+NEXT+PROJECT...+%5D;%5B+BUGS+DETECTED...+IGNORING+SLEEP+%5D" alt="Developer status animation"/> </div>
 🎮 DEVELOPER.STATUS
 <div align="center">
 SYSTEM	STATUS
