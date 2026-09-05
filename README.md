@@ -123,7 +123,7 @@ Project	Description	Technology
 <br><br>
 
 📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="180" alt="GitHub Contribution Streak"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/></div>
 
 <br><br>
 
