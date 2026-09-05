@@ -1,298 +1,251 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,15:090979,35:001eff,55:00f7ff,75:7f00ff,100:020024&height=300&section=header&text=SANTHU-SHAN&fontSize=76&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=DEVELOPER%20OS%20%2F%2F%20CONTROL%20CENTER&descAlignY=61&descSize=19" width="100%" alt="Santhu-shan Developer OS"/> <br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%3E+BOOTING+DEVELOPER.OS...;%3E+IDENTITY%3A+SANTHU-SHAN;%3E+STATUS%3A+ONLINE+%E2%97%8F;%3E+BUILDING+THE+NEXT+THING+%F0%9F%9A%80" alt="Boot sequence"/>
-<br><br>
+Yes. This is the exact structure I recommend. Below is the **clean final README architecture** for your `Santhu-shan` profile — designed as **Cyberpunk × Developer OS × Portfolio × Game UI**, while avoiding the broken/overcrowded rendering from the previous versions.
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="System online"/> <img src="https://img.shields.io/badge/BUILD-MODE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Build mode"/> <img src="https://img.shields.io/badge/LEARNING-ACTIVE-7F00FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning active"/>
-<br><br>
+ \<div align="center"\> \<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,20:12005C,40:001EFF,60:00D4FF,80:00FFF0,100:7F00FF&height=300&section=header&text=SANTHU-SHAN&fontSize=76&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=DEVELOPER%20OS%20%2F%2F%20ONLINE&descAlignY=61&descSize=20" width="100%" alt="SANTHU-SHAN"/\> \<br\> \<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=%3E+BOOTING+DEVELOPER.OS...;%3E+IDENTITY%3A+SANTHU-SHAN;%3E+ROLE%3A+SOFTWARE+DEVELOPER;%3E+STATUS%3A+ONLINE+%E2%97%8F" alt="Boot sequence"/\> \<br\>\<br\>
 
-<a href="#-control-center"> <img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20CONTROL%20CENTER-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Enter control center"/> </a> </div>
-<br><br>
+ \<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="System online"/\> \<img src="https://img.shields.io/badge/BUILD-MODE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Build mode"/\> \<img src="https://img.shields.io/badge/LEARNING-ACTIVE-7F00FF?style=for-the-badge" alt="Learning active"/\> \<br\>\<br\>
 
-🎮 CONTROL CENTER
-<div align="center">
+ \<a href="#-control-center"\> \<img src="https://img.shields.io/badge/ENTER%20CONTROL%20CENTER-%E2%96%B6-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Enter Control Center"/\> \</a\> \</div\> \<br\>
+---
+
+ # 🎮 CONTROL CENTER
+
+ \<div align="center"\>
+```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║              SANTHU-SHAN // DEVELOPER OS                ║
 ║                                                          ║
-║                  🟢 SYSTEM ONLINE                       ║
-║                                                          ║
-║       SOFTWARE DEVELOPER • BUILDER • EXPLORER            ║
+║       🟢 ONLINE     ⚡ BUILDING     🧠 LEARNING          ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
+```
 
-<br> <a href="#-about-module"> <img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT-181717?style=for-the-badge" alt="About"/> </a> <a href="#-skill-modules"> <img src="https://img.shields.io/badge/%E2%9A%A1%20SKILLS-7F00FF?style=for-the-badge" alt="Skills"/> </a> <a href="#-project-lab"> <img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-00F7FF?style=for-the-badge&logoColor=black" alt="Projects"/> </a>
-<br><br>
+ \<br\> \<a href="#-about-module"\> \<img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT-181717?style=for-the-badge" alt="About"/\> \</a\> \<a href="#-skill-tree"\> \<img src="https://img.shields.io/badge/%E2%9A%A1%20SKILL%20TREE-7F00FF?style=for-the-badge" alt="Skill Tree"/\> \</a\> \<a href="#-project-lab"\> \<img src="https://img.shields.io/badge/%F0%9F%9A%80%20PROJECT%20LAB-00F7FF?style=for-the-badge&logoColor=black" alt="Project Lab"/\> \</a\> \<br\>\<br\>
 
-<a href="#-github-telemetry"> <img src="https://img.shields.io/badge/%F0%9F%93%8A%20TELEMETRY-00D4FF?style=for-the-badge" alt="Telemetry"/> </a> <a href="#-mission-control"> <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20MISSION-00FF88?style=for-the-badge" alt="Mission"/> </a> <a href="#-achievement-system"> <img src="https://img.shields.io/badge/%F0%9F%8F%86%20ACHIEVEMENTS-FF6B00?style=for-the-badge" alt="Achievements"/> </a> </div>
-<br><br>
+ \<a href="#-telemetry"\> \<img src="https://img.shields.io/badge/%F0%9F%93%8A%20TELEMETRY-00D4FF?style=for-the-badge" alt="Telemetry"/\> \</a\> \<a href="#-mission-control"\> \<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20MISSION-00FF88?style=for-the-badge" alt="Mission"/\> \</a\> \<a href="#-achievement-system"\> \<img src="https://img.shields.io/badge/%F0%9F%8F%86%20ACHIEVEMENTS-FF6B00?style=for-the-badge" alt="Achievements"/\> \</a\> \</div\> \<br\>
+---
 
-👨‍💻 ABOUT MODULE
-<details> <summary><b>🔓 OPEN ABOUT.MODULE</b></summary> <br> <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding"/> </div> <br>
-Hi! I'm Santhu-shan, a software developer who enjoys turning ideas into real, working projects.
+ # 👨‍💻 ABOUT MODULE
 
-I like exploring different technologies, solving programming problems, experimenting with new concepts, and building applications that turn ideas into something people can actually use.
+ \<details\> \<summary\>\<b\>🔓 ACCESS IDENTITY DATABASE\</b\>\</summary\> \<br\> \<div align="center"\> \<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding"/\> \</div\> \<br\> ## `IDENTITY`
 
-🚀 What I Enjoy
-💻 Python, Java and JavaScript development
-⚛️ React and modern web interfaces
-🌐 Full-stack development
-🤖 AI and intelligent applications
-🔗 Blockchain-based applications
-🧠 Problem solving
-🎨 Interactive web experiences
-🚀 Building projects and learning by doing
-🧬 Developer Philosophy
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2100&pause=700&color=00FF88&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;%3E+Every+bug+teaches+something.;%3E+Every+project+adds+experience.;%3E+Every+failure+improves+the+next+build." alt="Developer philosophy"/> </div> </details>
-<br><br>
+ Hi! I'm **Santhu-shan**, a software developer who enjoys turning ideas into real, working projects.
 
-⚡ SKILL MODULES
-<details> <summary><b>🐍 OPEN PYTHON MODULE</b></summary> <br>
-🐍 PYTHON // ACTIVE
-<img src="https://skillicons.dev/icons?i=python" width="75" alt="Python"/>
-Focus
+ I like experimenting with different technologies, solving programming problems, and building applications that turn concepts into something people can actually use.
 
-Programming · Automation · AI/ML · Problem Solving
+ ### 🚀 CURRENT INTERESTS
 
-STATUS: LEARNING + BUILDING
+ - 💻 Python, Java and JavaScript
+- ⚛️ React and modern web interfaces
+- 🌐 Full-stack development
+- 🤖 AI and intelligent applications
+- 🔗 Blockchain-based applications
+- 🧠 Problem solving
+- 🎨 Interactive web experiences
+- 🚀 Building projects and learning by doing
 
-</details> <br> <details> <summary><b>☕ OPEN JAVA MODULE</b></summary> <br>
-☕ JAVA // ACTIVE
-<img src="https://skillicons.dev/icons?i=java" width="75" alt="Java"/>
-Focus
+ ### 🧬 DEVELOPER PHILOSOPHY
 
-OOP · Application Development · Problem Solving
+ \<div align="center"\> \<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=650&color=00FF88&center=true&vCenter=true&width=800&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+FIX+%E2%86%92+SHIP;%3E+Every+bug+teaches+something.;%3E+Every+project+adds+experience.;%3E+Every+build+starts+with+an+idea." alt="Developer philosophy"/\> \</div\> \</details\> \<br\>
+---
 
-STATUS: BUILDING
+ # ⚡ SKILL TREE
 
-</details> <br> <details> <summary><b>⚡ OPEN JAVASCRIPT MODULE</b></summary> <br>
-⚡ JAVASCRIPT // ACTIVE
-<img src="https://skillicons.dev/icons?i=javascript" width="75" alt="JavaScript"/>
-Focus
+ \<div align="center"\> `LANGUAGES` → `FRONTEND` → `TOOLS` → `EXPLORATION`
 
-Web Development · Interactive UI · Application Logic
+ \</div\> \<br\> \<details\> \<summary\>\<b\>🐍 PYTHON // ACTIVE\</b\>\</summary\> \<br\> \<img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/\> **Focus:** `Programming` · `Automation` · `AI/ML` · `Problem Solving`
 
-STATUS: BUILDING + EXPERIMENTING
+ **Status:** 🟢 `BUILDING`
 
-</details> <br> <details> <summary><b>⚛️ OPEN REACT MODULE</b></summary> <br>
-⚛️ REACT // ACTIVE
-<img src="https://skillicons.dev/icons?i=react" width="75" alt="React"/>
-Focus
+ \</details\> \<br\> \<details\> \<summary\>\<b\>☕ JAVA // ACTIVE\</b\>\</summary\> \<br\> \<img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/\> **Focus:** `OOP` · `Application Development` · `Problem Solving`
 
-Components · Frontend · Modern Web Applications
+ **Status:** 🟢 `BUILDING`
 
-STATUS: BUILDING
+ \</details\> \<br\> \<details\> \<summary\>\<b\>⚡ JAVASCRIPT // ACTIVE\</b\>\</summary\> \<br\> \<img src="https://skillicons.dev/icons?i=javascript" width="70" alt="JavaScript"/\> **Focus:** `Web Development` · `Interactive UI` · `Application Logic`
 
-</details> <br> <details> <summary><b>🧰 OPEN TOOLKIT</b></summary> <br> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma" alt="Development toolkit"/> </div>
-Toolkit
+ **Status:** 🟢 `BUILDING`
 
-HTML · CSS · Git · GitHub · VS Code · Figma
+ \</details\> \<br\> \<details\> \<summary\>\<b\>⚛️ REACT // ACTIVE\</b\>\</summary\> \<br\> \<img src="https://skillicons.dev/icons?i=react" width="70" alt="React"/\> **Focus:** `Components` · `Frontend` · `Modern Web Apps`
 
-</details>
-<br><br>
+ **Status:** 🟢 `BUILDING`
 
-🎮 DEVELOPER STATUS
-<div align="center">
-SYSTEM	STATUS
-🧠 Brain	PROCESSING...
-💻 Coding	ONLINE
-🚀 Projects	BUILDING
-🐛 Bugs	UNLIMITED
-💡 Ideas	OVERFLOW
-☕ Coffee	CRITICAL
-😴 Sleep	LOW PRIORITY
+ \</details\> \<br\> \<details\> \<summary\>\<b\>🧰 DEVELOPMENT TOOLKIT\</b\>\</summary\> \<br\> \<div align="center"\> \<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma" alt="Development tools"/\> \</div\> \<br\> `HTML` · `CSS` · `Git` · `GitHub` · `VS Code` · `Figma`
 
-<br> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=1700&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+ONLINE+%5D;%5B+DEVELOPER+MODE%3A+ACTIVE+%5D;%5B+BUILDING+NEXT+PROJECT...+%5D;%5B+BUG+DETECTED%3A+ACCEPTED+%5D;%5B+LEARNING+RATE%3A+INCREASING+%5D" alt="Developer status"/> </div>
-<br><br>
+ \</details\> \<br\>
+---
 
-🚀 PROJECT LAB
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+ACCESSING+PROJECT+DATABASE...;%3E+SCANNING+REPOSITORIES...;%3E+FEATURED+PROJECTS+FOUND;%3E+PROJECT.LAB+ONLINE..." alt="Project lab"/> </div> <br> <details open> <summary><b>🍽️ CAMPUS NOURISH // FEATURED</b></summary> <br>
-🍽️ Campus Nourish
-A campus-focused food and nourishment platform.
+ # 🚀 PROJECT LAB
 
-Stack: TypeScript
+ \<div align="center"\> \<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+ACCESSING+PROJECT\_DATABASE...;%3E+SCANNING+REPOSITORIES...;%3E+FEATURED+PROJECTS+FOUND;%3E+PROJECT\_LAB+ONLINE..." alt="Project database"/\> \</div\> \<br\> ## 🍽️ Campus Nourish
 
-Concept: Building a more organized and accessible campus food experience.
+ > A campus-focused food and nourishment platform.
 
-<br> <a href="https://github.com/Santhu-shan/campus-nourish"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20REPOSITORY-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Open Campus Nourish repository"/> </a> </details> <br> <details> <summary><b>🩺 HEALTHCARE BLOCKCHAIN // FEATURED</b></summary> <br>
-🩺 Healthcare Management Blockchain
-A blockchain-oriented healthcare management web application.
+ **STACK:** `TypeScript`
 
-Stack: TypeScript · Blockchain · Web
+ \<div align="center"\> \<a href="https://github.com/Santhu-shan/campus-nourish"\> \<img src="https://img.shields.io/badge/OPEN%20PROJECT-%E2%96%B6-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Open Campus Nourish"/\> \</a\> \</div\> \<br\> ## 🩺 Healthcare Management Blockchain
 
-Concept: Exploring decentralized technologies for healthcare applications.
+ > A blockchain-oriented healthcare management web application.
 
-<br> <a href="https://github.com/Santhu-shan/Healthcare-Management-Blockchain-Web-Application"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20REPOSITORY-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Healthcare Blockchain repository"/> </a> </details> <br> <details> <summary><b>₿ CRYPTO AI // FEATURED</b></summary> <br>
-₿ Crypto AI Dashboard
-A Python-based project exploring cryptocurrency data and AI-oriented functionality.
+ **STACK:** `TypeScript` · `Blockchain` · `Web`
 
-Stack: Python · AI · Dashboard
+ \<div align="center"\> \<a href="https://github.com/Santhu-shan/Healthcare-Management-Blockchain-Web-Application"\> \<img src="https://img.shields.io/badge/OPEN%20PROJECT-%E2%96%B6-7F00FF?style=for-the-badge&logo=github" alt="Open Healthcare Blockchain"/\> \</a\> \</div\> \<br\> ## ₿ Crypto AI Dashboard
 
-Concept: Exploring data-driven ideas around cryptocurrency.
+ > A Python project exploring cryptocurrency data and AI-oriented functionality.
 
-<br> <a href="https://github.com/Santhu-shan/crypto-ai-dashboard"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20REPOSITORY-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Open Crypto AI Dashboard repository"/> </a> </details> <br> <details> <summary><b>🧠 SENTIMENTAL ANALYSIS // FEATURED</b></summary> <br>
-🧠 Sentimental Analysis
-A project exploring sentiment analysis and AI-related concepts.
+ **STACK:** `Python` · `AI` · `Dashboard`
 
-Stack: TypeScript · AI/ML
+ \<div align="center"\> \<a href="https://github.com/Santhu-shan/crypto-ai-dashboard"\> \<img src="https://img.shields.io/badge/OPEN%20PROJECT-%E2%96%B6-00D4FF?style=for-the-badge&logo=github&logoColor=black" alt="Open Crypto AI Dashboard"/\> \</a\> \</div\> \<br\> ## 🧠 Sentimental Analysis
 
-Concept: Working with textual data and sentiment analysis.
+ > A project exploring sentiment analysis and AI-related concepts.
 
-<br> <a href="https://github.com/Santhu-shan/sentimental-analysis"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20REPOSITORY-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Open Sentimental Analysis repository"/> </a> </details>
-<br><br>
+ **STACK:** `TypeScript` · `AI/ML`
 
-🔍 PROJECT DATABASE
-<details> <summary><b>🔓 OPEN COMPLETE PROJECT ARCHIVE</b></summary> <br>
-PROJECT	DESCRIPTION	TECHNOLOGY
-🍔 Food Order App	Food ordering application	Java
-🛒 Ecommerce	E-commerce web application	JavaScript
-📝 Task Manager	Task management application	JavaScript
-📚 NPTEL Quiz Site	Quiz platform	JavaScript
-🧑‍💻 Softskill Quiz Site	Soft-skills quiz platform	JavaScript
-📅 eventIQ	Event-focused application	TypeScript
-🍔 QuickBite UI	Food-delivery interface	TypeScript
-🩺 Healthcare Blockchain	Healthcare management	TypeScript
-🧠 Sentimental Analysis	Sentiment analysis	TypeScript
-₿ Crypto AI Dashboard	Crypto / AI dashboard	Python
-₿ Bitcoin Price Prediction	Bitcoin prediction project	TypeScript
-🍽️ Interactive Food Delivery	Food-delivery prototype	TypeScript
-🎨 Food Delivery Wireframe	Interface / wireframe work	TypeScript
-💍 Wedding Template	Wedding website	HTML
-🌌 Futuristic Website	Futuristic web design	HTML
-📚 VITQB	Web project	HTML
-👨‍🏫 VIT Faculty Review	Faculty review platform	TypeScript
-📄 Resume	Personal resume	HTML
-📱 Capita Demo	Application prototype	Dart
+ \<div align="center"\> \<a href="https://github.com/Santhu-shan/sentimental-analysis"\> \<img src="https://img.shields.io/badge/OPEN%20PROJECT-%E2%96%B6-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Open Sentimental Analysis"/\> \</a\> \</div\> \<br\>
+---
 
-<br> <div align="center"> <a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20FULL%20REPOSITORY%20DATABASE-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Open full repository database"/> </a> </div> </details>
-<br><br>
+ # 🔍 PROJECT ARCHIVE
 
-📊 GITHUB TELEMETRY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="175" alt="GitHub Contribution Streak"/> </div>
-<br><br>
+ \<details\> \<summary\>\<b\>🔓 OPEN COMPLETE PROJECT DATABASE\</b\>\</summary\> \<br\> | PROJECT | DESCRIPTION | STACK |
+| --- | --- | --- |
+| 🍔 Food Order App | Food ordering application | `Java` |
+| 🛒 Ecommerce | E-commerce web application | `JavaScript` |
+| 📝 Task Manager | Task management application | `JavaScript` |
+| 📚 NPTEL Quiz Site | Quiz platform | `JavaScript` |
+| 🧑‍💻 Softskill Quiz Site | Soft-skills quiz platform | `JavaScript` |
+| 📅 eventIQ | Event-focused application | `TypeScript` |
+| 🍔 QuickBite UI | Food-delivery interface | `TypeScript` |
+| 🩺 Healthcare Blockchain | Healthcare management | `TypeScript` |
+| 🧠 Sentimental Analysis | Sentiment analysis | `TypeScript` |
+| ₿ Crypto AI Dashboard | Crypto / AI dashboard | `Python` |
+| ₿ Bitcoin Price Prediction | Bitcoin prediction project | `TypeScript` |
+| 🍽️ Interactive Food Delivery | Food-delivery prototype | `TypeScript` |
+| 🎨 Food Delivery Wireframe | Interface / wireframe | `TypeScript` |
+| 💍 Wedding Template | Wedding website | `HTML` |
+| 🌌 Futuristic Website | Futuristic website | `HTML` |
+| 📚 VITQB | Web project | `HTML` |
+| 👨‍🏫 VIT Faculty Review | Faculty review platform | `TypeScript` |
+| 📄 Resume | Personal resume | `HTML` |
+| 📱 Capita Demo | Application prototype | `Dart` |
 
-<details> <summary><b>📈 OPEN CONTRIBUTION MONITOR</b></summary> <br> <div align="center"> <img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" width="95%" alt="Santhu-shan GitHub contribution graph"/> </div> </details>
-<br><br>
+\<br\> \<div align="center"\> \<a href="https://github.com/Santhu-shan?tab=repositories"\> \<img src="https://img.shields.io/badge/OPEN%20ALL%20REPOSITORIES-%E2%86%92-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Open all repositories"/\> \</a\> \</div\> \</details\> \<br\>
+---
 
-🧪 DEVELOPER TERMINAL
-<div align="center">
+ # 📊 TELEMETRY
+
+ \<div align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show\_icons=true&theme=tokyonight&hide\_border=true" height="175" alt="GitHub statistics"/\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide\_border=true&langs\_count=8" height="175" alt="Top languages"/\> \<img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide\_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" height="175" alt="GitHub contribution streak"/\> \</div\> \<br\> \<details\> \<summary\>\<b\>📈 OPEN CONTRIBUTION MONITOR\</b\>\</summary\> \<br\> \<div align="center"\> \<img src="https://ghchart.rshah.org/00d4ff/Santhu-shan" width="95%" alt="Santhu-shan GitHub contribution graph"/\> \</div\> \</details\> \<br\> \<div align="center"\> \<a href="https://github.com/Santhu-shan?tab=overview"\> \<img src="https://img.shields.io/badge/VIEW%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github" alt="View GitHub activity"/\> \</a\>
+
+ \<a href="https://github.com/Santhu-shan?tab=repositories"\> \<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View all projects"/\> \</a\> \</div\> \<br\>
+---
+
+ # 🧪 DEVELOPER TERMINAL
+
+ \<div align="center"\>
+```
 ┌─────────────────────────────────────────────────────────┐
-│                 SANTHU-SHAN TERMINAL                    │
+│ SANTHU@GITHUB:~$                                       │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  santhu@github:~$ whoami                                │
+│ $ whoami                                                │
+│ > santhu-shan                                            │
 │                                                         │
-│  > Software Developer                                   │
-│  > Builder                                              │
-│  > Problem Solver                                       │
-│  > Always Learning                                      │
+│ $ role                                                  │
+│ > software developer                                    │
 │                                                         │
-│  santhu@github:~$ skills                                │
+│ $ stack                                                 │
+│ > Python / Java / JavaScript / React                    │
 │                                                         │
-│  > Python                                               │
-│  > Java                                                 │
-│  > JavaScript                                           │
-│  > React                                                │
+│ $ interests                                             │
+│ > Web Development                                       │
+│ > Artificial Intelligence                               │
+│ > Blockchain                                            │
+│ > Problem Solving                                       │
 │                                                         │
-│  santhu@github:~$ interests                             │
+│ $ status                                                │
+│ > ● ONLINE                                               │
+│ > ● BUILDING                                             │
+│ > ● LEARNING                                             │
 │                                                         │
-│  > Web Development                                      │
-│  > Artificial Intelligence                              │
-│  > Blockchain                                           │
-│  > Problem Solving                                      │
+│ $ next                                                   │
+│ > BUILD SOMETHING AWESOME                               │
 │                                                         │
-│  santhu@github:~$ status                                │
-│                                                         │
-│  > ONLINE ●                                             │
-│  > BUILDING ●                                           │
-│  > LEARNING ●                                           │
-│                                                         │
-│  santhu@github:~$                                      │
-│                                                         │
-│  > _                                                     │
+│ $ _                                                     │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
+```
 
-</div>
-<br><br>
+ \</div\> \<br\> \<details\> \<summary\>\<b\>🖥️ EXPLORE TERMINAL COMMANDS\</b\>\</summary\> \<br\> - `$ whoami` → Developer identity
+- `$ skills` → Technology stack
+- `$ projects` → Project database
+- `$ telemetry` → GitHub activity
+- `$ mission` → Current objectives
+- `$ achievements` → Developer milestones
+- `$ status` → Current developer state
 
-🎯 MISSION CONTROL
-<details open> <summary><b>🟢 MISSION STATUS: ACTIVE</b></summary> <br> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2100&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=160&lines=%5B+MISSION+01+%5D+Master+full-stack+development;%5B+MISSION+02+%5D+Build+better+React+applications;%5B+MISSION+03+%5D+Strengthen+Python+skills;%5B+MISSION+04+%5D+Become+a+stronger+problem+solver;%5B+MISSION+05+%5D+Build+projects+that+matter" alt="Mission control"/> </div> <br>
-MISSION	OBJECTIVE	STATUS
-01	🚀 Master full-stack development	ACTIVE
-02	⚛️ Build better React applications	ACTIVE
-03	🐍 Strengthen Python skills	ACTIVE
-04	🧠 Become a stronger problem solver	ACTIVE
-05	🤖 Explore intelligent applications	ACTIVE
-06	🌍 Build projects that matter	ACTIVE
+ \</details\> \<br\>
+---
 
-</details>
-<br><br>
+ # 🎯 MISSION CONTROL
 
-🏆 ACHIEVEMENT SYSTEM
-<details> <summary><b>🏆 OPEN ACHIEVEMENT DATABASE</b></summary> <br> <div align="center">
-🏗️ BUILDER
-Turn ideas → into projects
+ \<details open\> \<summary\>\<b\>🟢 MISSION STATUS // ACTIVE\</b\>\</summary\> \<br\> \<div align="center"\> \<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=150&lines=%5B+MISSION+01+%5D+MASTER+FULL-STACK+DEVELOPMENT;%5B+MISSION+02+%5D+BUILD+BETTER+REACT+APPLICATIONS;%5B+MISSION+03+%5D+STRENGTHEN+PYTHON+SKILLS;%5B+MISSION+04+%5D+BECOME+A+STRONGER+PROBLEM+SOLVER;%5B+MISSION+05+%5D+BUILD+PROJECTS+THAT+MATTER" alt="Mission control"/\> \</div\> \<br\> | ID | MISSION | STATUS |
+| --- | --- | --- |
+| `01` | 🚀 Master full-stack development | 🟢 ACTIVE |
+| `02` | ⚛️ Build better React applications | 🟢 ACTIVE |
+| `03` | 🐍 Strengthen Python skills | 🟢 ACTIVE |
+| `04` | 🧠 Become a stronger problem solver | 🟢 ACTIVE |
+| `05` | 🤖 Explore intelligent applications | 🟢 ACTIVE |
+| `06` | 🌍 Build projects that matter | 🟢 ACTIVE |
 
-<br>
-🐍 PYTHON EXPLORER
-Python → AI → Automation
+\</details\> \<br\>
+---
 
-<br>
-☕ JAVA BUILDER
-OOP → Applications → Problem Solving
+ # 🏆 ACHIEVEMENT SYSTEM
 
-<br>
-⚛️ REACT EXPLORER
-Components → Interfaces → Web Apps
+ \<details\> \<summary\>\<b\>🔓 OPEN ACHIEVEMENT DATABASE\</b\>\</summary\> \<br\> \<div align="center"\> | ACHIEVEMENT | DESCRIPTION |
+| --- | --- |
+| 🏗️ **BUILDER** | Turn ideas into working projects |
+| 🐍 **PYTHON EXPLORER** | Explore Python, automation and AI |
+| ☕ **JAVA BUILDER** | Build with object-oriented programming |
+| ⚡ **WEB EXPLORER** | Create interactive web experiences |
+| ⚛️ **REACT EXPLORER** | Build modern frontend interfaces |
+| 🚀 **PROJECT SHIPPER** | Move ideas from concept to repository |
+| 🧠 **PROBLEM SOLVER** | Debug, understand and improve |
+| 🔥 **NEVER STOP LEARNING** | Keep learning through every project |
 
-<br>
-🚀 PROJECT SHIPPER
-Idea → Code → Repository
+\</div\> \<br\> \<div align="center"\> \<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=1900&pause=600&color=FF6B00&center=true&vCenter=true&width=750&lines=%3E+ACHIEVEMENTS+LOADED...;%3E+NEXT+ACHIEVEMENT+LOCKED...;%3E+KEEP+BUILDING+TO+UNLOCK+MORE." alt="Achievement system"/\> \</div\> \</details\> \<br\>
+---
 
-<br>
-🧠 PROBLEM SOLVER
-Problem → Debug → Understand → Improve
+ # 📡 SYSTEM LOG
 
-<br>
-🔥 NEVER STOP LEARNING
-Learn → Build → Repeat
+ \<div align="center"\>
+```
+╔══════════════════════════════════════════════════════════╗
+║                     SYSTEM LOG                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [ OK ] Developer identity loaded                       ║
+║  [ OK ] Skill tree initialized                           ║
+║  [ OK ] Project database indexed                         ║
+║  [ OK ] GitHub telemetry connected                       ║
+║  [ OK ] Mission control activated                        ║
+║  [ OK ] Achievement system online                        ║
+║                                                          ║
+║             ALL SYSTEMS OPERATIONAL                     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-</div> </details>
-<br><br>
+ \</div\> \<br\>\<br\>
 
-📡 SYSTEM LOG
-<div align="center">
-[ OK ] Developer identity loaded
-[ OK ] Skill modules initialized
-[ OK ] Project database indexed
-[ OK ] GitHub telemetry connected
-[ OK ] Mission control activated
-[ OK ] Achievement system online
-[ OK ] Developer mindset loaded
+---
 
-        ┌─────────────────────────────┐
-        │                             │
-        │       SYSTEM READY          │
-        │                             │
-        │    BUILD SOMETHING GREAT    │
-        │                             │
-        └─────────────────────────────┘
+ # 📡 TRANSMISSION
 
-</div>
-<br><br>
+ \<div align="center"\> \<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2100&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=CONNECTION+ESTABLISHED+%E2%9C%93;THANKS+FOR+VISITING+MY+PROFILE!+%F0%9F%91%8B;KEEP+LEARNING.;KEEP+BUILDING.;KEEP+SHIPPING.;BUILD+SOMETHING+EXTRAORDINARY.+%F0%9F%9A%80" alt="Transmission"/\> \<br\>\<br\>
 
-🌐 CONNECT
-<div align="center"> <a href="https://github.com/Santhu-shan"> <img src="https://img.shields.io/badge/GITHUB-SANTHU--SHAN-181717?style=for-the-badge&logo=github&logoColor=white" alt="Santhu-shan GitHub"/> </a>
-  
+ \<a href="https://github.com/Santhu-shan"\> \<img src="https://img.shields.io/badge/GITHUB-SANTHU--SHAN-181717?style=for-the-badge&logo=github&logoColor=white" alt="Santhu-shan GitHub"/\> \</a\> \<br\>\<br\>
 
-<a href="https://github.com/Santhu-shan?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/> </a> </div>
-<br><br>
+ `CODE` • `CREATE` • `INNOVATE`
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=CONNECTION+ESTABLISHED+%E2%9C%93;Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+learning.;Keep+building.;Keep+shipping.;Keep+creating+something+extraordinary.+%F0%9F%9A%80" alt="Final transmission"/>
-<br><br>
+ \<br\>\<br\>
 
-SANTHU-SHAN // DEVELOPER OS
-CODE • CREATE • INNOVATE
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF0,25:00D4FF,50:001EFF,75:7F00FF,100:020024&height=180&section=footer&animation=twinkling" width="100%" alt="Animated footer"/> </div>
+ \<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF0,25:00D4FF,50:001EFF,75:7F00FF,100:020024&height=180&section=footer&animation=twinkling" width="100%" alt="Animated footer"/\> \</div\>
