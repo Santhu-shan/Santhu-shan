@@ -163,18 +163,22 @@ Project	Description	Technology
 
 <br><br>
 
-🔥 CONTRIBUTION.STREAK
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=Santhu-shan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=7F00FF" alt="Contribution streak"/> </div>
+📊 GITHUB.STATISTICS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Santhu-shan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhu-shan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/> </div>
 
 <br><br>
 
 📈 ACTIVITY.MONITOR
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhu-shan&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&custom_title=Santhu-shan%27s%20Contribution%20Graph" width="95%" alt="Contribution activity graph"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhu-shan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity Graph"/> </div>
 
 <br><br>
 
 🐍 CONTRIBUTION.PREDATOR
-<div align="center"> <img src="https://raw.githubusercontent.com/Santhu-shan/Santhu-shan/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake"/>
+<div align="center"> <img src="https://raw.githubusercontent.com/Santhu-shan/Santhu-shan/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=00FF88&center=true&vCenter=true&width=650&lines=%3E+SNAKE+PROTOCOL+ACTIVE;%3E+CONSUMING+CONTRIBUTIONS...;%3E+KEEP+CODING+%F0%9F%90%8D" alt="Snake status"/> </div>
 
 <br><br>
 
